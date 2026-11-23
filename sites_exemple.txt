@@ -1,0 +1,4 @@
+# Une cible par ligne, les lignes commenceant par # sont ignorees
+# Le prefixe https:// est ajoute automatiquement si absent
+http://127.0.0.1:8001/
+https://www.google.com
